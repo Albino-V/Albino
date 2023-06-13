@@ -1,7 +1,10 @@
 # Albino
 Oi, me chamo Vinicius Albino 👋
 Sobre mim
-💻 Eu esrout aprendendo [HTML5] [CSS3] [Javascript];
+
+
+
+💻 Eu estou aprendendo [HTML5] [CSS3] [Javascript];
 
 🎓 Eu estudo pelo Youtube canal [gustavo guanabara];
 
